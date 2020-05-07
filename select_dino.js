@@ -29,6 +29,7 @@ $(document).ready(function (){
             defineSrc(def1,"200-offline-sprite_borkovich.png");
         }else{
             alert("ne dewa");
+            defineSrc(def1,"200-offline-sprite.png");
         }
         alert("Press the UP arrow to start\n Also zoom window to 200% for the best viewing experience");
     })
