@@ -25,6 +25,8 @@ $(document).ready(function (){
             defineSrc(def1,"200-offline-sprite_neti.png");
         }else if (chosenDino == "vito"){
             defineSrc(def1,"200-offline-sprite_vito.png");
+        }else if (chosenDino == "borkovich"){
+            defineSrc(def1,"200-offline-sprite_borkovich.png");
         }else{
             alert("ne dewa");
         }
